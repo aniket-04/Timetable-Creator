@@ -8,4 +8,10 @@
 - API used - Sendgrid for mailing 
 ### Setup
 - Get inside the directory and run npm install to install all the required dependcies.
+  ```
+  $ npm install
+  ```
 - Once all the packages are installed run npm start to start the development server.
+  ```
+  $ npm start
+  ```
