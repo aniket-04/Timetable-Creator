@@ -15,3 +15,6 @@
   ```
   $ npm start
   ```
+
+### ScreenShot
+![ttc-homescreen](https://imgur.com/uG5dUy3.png)
