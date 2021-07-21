@@ -16,5 +16,13 @@
   $ npm start
   ```
 
-### ScreenShot
+## ScreenShots
+### HomeScreen
 ![ttc-homescreen](https://imgur.com/uG5dUy3.png)
+### Subject filling
+![ttc-homescreen](https://imgur.com/uA92Xp1.png)
+### Clash Detection
+![ttc-homescreen](https://imgur.com/TckhtLG.png)
+### Download as Pdf
+![ttc-homescreen](https://imgur.com/Kq7Qp4W.png)
+
