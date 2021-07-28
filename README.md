@@ -7,7 +7,7 @@
 - `React JS` , `Redux`
 - `Firebase` for Database
 - API used - `Sendgrid` for mailing 
-### ```Setup```
+### ```# Setup```
 - Get inside the directory and run `npm install` to install all the required dependcies.
   ```
   $ npm install
@@ -17,7 +17,7 @@
   $ npm start
   ```
 
-## ```Demo ScreenShots```
+## ```# Demo ScreenShots```
 ### `HomeScreen`
 ![ttc-homescreen](https://imgur.com/uG5dUy3.png)
 ### `Subject filling`
