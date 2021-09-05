@@ -1,5 +1,8 @@
 # Timetable-Creator
 ### ```# Problem```
+- Time Table Scheduling is a complex problem. It a typical scheduling problem that appears to be a tedious job in every academic institute once or twice a year. 
+- In earlier days, time table scheduling was done manually with a single person or some group involved in task of scheduling it manually, which takes a lot of effort and time. Planning timetables is one of the most complex and error-prone applications.
+
 ### ```# Purpose``` 
 - Purpose is to design and implement to create a semester course time table by assigning time-slots to a given set of courses to be run that semester under given constraints!
 -  The constraints include avoiding clashes of time-slots, assigning appropriate no. of slots.
